@@ -6,3 +6,11 @@
 ![pc-2](https://github.com/jgromo/Pokemon-Image-Classification/assets/54650393/66b05f34-c77d-49c8-839b-3366e57bc7dc)
 
 ![pc-3](https://github.com/jgromo/Pokemon-Image-Classification/assets/54650393/325d7ff6-eff0-43fb-a63f-eba26514ac9f)
+
+# Requirements
+
+Python 3.6+
+TensorFlow
+Keras
+Flask
+Pillow
