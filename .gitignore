@@ -3,3 +3,4 @@
 pokemon_classifier.h5
 resize_image.py
 Images/Non-Pokemon-Resized
+/__pycache__
